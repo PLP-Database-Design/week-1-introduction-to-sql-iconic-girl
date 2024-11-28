@@ -1,6 +1,16 @@
-
-
-
+Question 1.
+Compents of a Database Management system
+1)Hardware -refers to the physical devices used to store and process data in the DBMS
+2)Software-the actual DBMS software
+ that controls and manages the database
+ 3)Data -the most crucial component
+ 4)Database Schema-the logical structure of the data base
+ 5)Query processor-Translates user queries written in SQL into instructions understood byy the database engine
+ 6)Database Engine-the core component responsible for storing,retriving and updating data
+ 7)Transaction Mnager-ensures that all database transactions are executed correctly
+ 8)Security Manager-Handel user authentication access control and encryption
+ 9)Backup and Recovery Manager- ensures data is recoverable in case of faillures like crashes
+10) User interface-tools or applications that allow users to interact with the DBMS
 
 
 Question 2:
